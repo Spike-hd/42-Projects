@@ -42,10 +42,6 @@ Voici un aperçu des projets que j'ai réalisés :
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Spike-hd&show_icons=true&theme=radical)
 
----
 
-## 🚀 Autres Informations
 
-N'hésitez pas à me contacter ou à consulter mes autres projets en suivant les liens ci-dessus.  
-Vous pouvez aussi me retrouver sur [LinkedIn](https://www.linkedin.com/in/votre-profile/) ou [mon Portfolio](https://votre-portfolio.com).
 
