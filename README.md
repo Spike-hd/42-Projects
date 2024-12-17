@@ -36,11 +36,6 @@ Voici un aperçu des projets que j'ai réalisés :
 **Objectif :** Découvrir les fractales et apprendre la gestion des graphiques avec la bibliothèque MiniLibX.  
 **Technologies :** C, Graphismes, MiniLibX
 
----
-
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Spike-hd&show_icons=true&theme=radical)
 
 
 
